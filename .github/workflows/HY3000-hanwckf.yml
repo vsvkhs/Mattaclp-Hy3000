@@ -88,8 +88,8 @@ env:
   DIY_P2_SH: HY3000-hanwckf/diy-part2.sh
   DIY_P3_SH: HY3000-hanwckf/diy-part3.sh
   SSH_ACTIONS: false
-  UPLOAD_FIRMWARE: false
-  UPLOAD_RELEASE: true
+  UPLOAD_FIRMWARE: true
+  UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
 
 jobs:
