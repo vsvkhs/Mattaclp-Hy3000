@@ -79,8 +79,8 @@ env:
   ###############手动修改##############
   OPENWRT_NAME: hanwckf
   UPLOAD_TAG_NAME: philips-hy3000
-  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
-  REPO_BRANCH: openwrt-24.10-6.6
+  REPO_URL: https://github.com/Yuzhii0718/immortalwrt-mt798x-hanwckf
+  REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: HY3000-hanwckf/feeds.conf.default
   HY3000_DTS_FILE: target/linux/mediatek/files-5.4/arch/arm64/boot/dts/mediatek/mt7981-philips-hy3000.dts
   CONFIG_FILE: HY3000-hanwckf/yuzhi2102-hy3000.config
